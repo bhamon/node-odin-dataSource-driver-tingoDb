@@ -1,0 +1,32 @@
+{
+	"name":"odin-dataSource-driver-tingoDb",
+	"version":"0.1.0",
+	"description":"TingoDB driver for odin data source",
+	"author":{
+		"name":"Cryo",
+		"url":"https://github.com/bhamon"
+	},
+	"license":"MIT",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/bhamon/node-odin-dataSource-driver-tingoDb.git"
+	},
+	"main":"lib/index.js",
+	"engines":{
+		"node":"~0.12"
+	},
+	"dependencies":{
+		"q":"~1.0",
+		"joi":"~6.4",
+		"tingoDb":"~0.3",
+		"odin":"https://github.com/bhamon/node-odin.git",
+		"odin-dataSource":"https://github.com/bhamon/node-odin-dataSource.git"
+	},
+	"devDependencies":{
+		"gulp":"~3.8",
+		"gulp-mocha":"~2.1",
+		"should":"~6.0",
+		"should-promised":"~0.2",
+		"gulp-jsdoc":"~0.1"
+	}
+}
