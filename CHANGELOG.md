@@ -1,3 +1,7 @@
+### v0.1.1
+
+* Odin dependencies updated.
+
 ### v0.1.0
 
 * First driver impl.
