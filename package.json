@@ -1,6 +1,6 @@
 {
 	"name":"odin-dataSource-driver-tingoDb",
-	"version":"0.1.1",
+	"version":"0.1.2",
 	"description":"TingoDB driver for odin data source",
 	"author":{
 		"name":"Cryo",

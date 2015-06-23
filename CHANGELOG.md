@@ -1,3 +1,7 @@
+### v0.1.2
+
+* TingoDB dependency corrected.
+
 ### v0.1.1
 
 * Odin dependencies updated.
