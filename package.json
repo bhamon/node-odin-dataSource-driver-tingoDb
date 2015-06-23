@@ -18,7 +18,7 @@
 	"dependencies":{
 		"q":"~1.0",
 		"joi":"~6.4",
-		"tingoDb":"~0.3",
+		"tingodb":"~0.3",
 		"odin":"bhamon/node-odin.git#v0.1.0",
 		"odin-dataSource":"bhamon/node-odin-dataSource.git#v0.1.1"
 	},
