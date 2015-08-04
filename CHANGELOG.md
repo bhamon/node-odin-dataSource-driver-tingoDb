@@ -1,3 +1,7 @@
+### v0.1.5
+
+- Dependencies updated.
+
 ### v0.1.4
 
 - Odin dependencies removed (use submodules instead).
