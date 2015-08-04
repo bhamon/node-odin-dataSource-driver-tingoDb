@@ -16,8 +16,8 @@
 		"node":"~0.12"
 	},
 	"dependencies":{
-		"q":"~1.0",
-		"joi":"~6.4",
+		"q":"~1.4",
+		"joi":"~6.6",
 		"tingodb":"~0.3"
 	},
 	"devDependencies":{
